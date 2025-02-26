@@ -1,5 +1,5 @@
 # CCWTF
-This is a code and data sample related to the submission to the WWW Journal, named "Context-Driven Cold-start Web Traffic Forecasting".
+This is a code and data sample related to the submission to the WWW Journal, named "Context-driven Cold-start Web Traffic Forecasting".
 
 Following are the guidance for reproduction.
 
