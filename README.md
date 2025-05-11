@@ -14,5 +14,3 @@ Run the `top_similar.py` script to retrieve channels.
 ### Forecast Generation and Evaluation
 Run the `gpt4o.py` to generate the forecast. 
 
-#### Models to Use
-  - "gpt-4o-mini-2024-07-18"
